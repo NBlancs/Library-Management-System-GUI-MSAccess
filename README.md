@@ -4,8 +4,6 @@
 
 # Description: A Graphical User Interface of Library Management System that utilizes MS Access as its database
 
-# note: 
+# Note: 
   username: admin
   password: password
-
-# Read Documentation
