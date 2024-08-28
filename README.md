@@ -1,9 +1,9 @@
 # Library-Management-System-GUI-MSAccess
 
-# Author: Nblancs
+## Author: Nblancs
 
-# Description: A Graphical User Interface of Library Management System that utilizes MS Access as its database
+#### Description: A Graphical User Interface of Library Management System that utilizes MS Access as its database
 
-# Note: 
+#### Note: 
   username: admin
   password: password
